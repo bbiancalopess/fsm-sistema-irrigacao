@@ -1,9 +1,111 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="25.0.3">
-  <diagram name="Página-1" id="RN-1rcFdZVhzTM8wZTFv">
-    <mxGraphModel>
+  <diagram name="Diagrama de blocos" id="RN-1rcFdZVhzTM8wZTFv">
+    <mxGraphModel dx="1930" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--2" value="Controladora" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6gWm62P6gzRhQ4kLOc7--1">
+          <mxGeometry x="35" y="-2" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--4" value="Caminho de dados" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6gWm62P6gzRhQ4kLOc7--3">
+          <mxGeometry x="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6gWm62P6gzRhQ4kLOc7--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--6" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="230" as="sourcePoint" />
+            <mxPoint x="80" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--7" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="260" as="sourcePoint" />
+            <mxPoint x="80" y="259.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--8" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="290" as="sourcePoint" />
+            <mxPoint x="80" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="320" as="sourcePoint" />
+            <mxPoint x="80" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--10" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="350" as="sourcePoint" />
+            <mxPoint x="80" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="200" as="sourcePoint" />
+            <mxPoint x="840" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="230" as="sourcePoint" />
+            <mxPoint x="840" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="259.74" as="sourcePoint" />
+            <mxPoint x="840" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--15" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor umidade setor 1 (4 bits)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="175" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor umidade setor 2&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(4 bits)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="205" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor nível reservatório&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="235" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Timer programável&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="265" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor de chuva&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(1 bit)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="295" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Botão acionador modo manual&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(1 bit)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="325" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--21" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Indicador nível (4 bits)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--22" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Alarme de baixo nível (1 bit)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="205" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--23" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Válvula de irrigação setor 1 (1 bit)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="235" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="290" as="sourcePoint" />
+            <mxPoint x="840" y="290.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--25" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Válvula de irrigação setor 2 (1 bit)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="265" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
