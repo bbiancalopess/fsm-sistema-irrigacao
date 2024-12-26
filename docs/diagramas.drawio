@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="25.0.3">
   <diagram name="Diagrama de blocos" id="RN-1rcFdZVhzTM8wZTFv">
-    <mxGraphModel dx="1930" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1780" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,11 +76,11 @@
         <mxCell id="6gWm62P6gzRhQ4kLOc7--16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor umidade setor 2&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(4 bits)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-66" y="205" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6gWm62P6gzRhQ4kLOc7--17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor nível reservatório&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-66" y="235" width="110" height="30" as="geometry" />
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor nível reservatório&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(4 bits)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="235" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6gWm62P6gzRhQ4kLOc7--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Timer programável&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-66" y="265" width="90" height="30" as="geometry" />
+        <mxCell id="6gWm62P6gzRhQ4kLOc7--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Timer programável (4 bits)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="265" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6gWm62P6gzRhQ4kLOc7--19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensor de chuva&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(1 bit)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-66" y="295" width="110" height="30" as="geometry" />
