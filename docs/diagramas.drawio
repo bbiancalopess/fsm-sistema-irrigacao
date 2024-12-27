@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u5YfSKtBaIwCGae10N4C" name="FSM alto nível">
-    <mxGraphModel dx="2137" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,8 +131,8 @@
         <mxCell id="MHBdFEDfE4BoACTo0Fqx-7" value="ESPERA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MHBdFEDfE4BoACTo0Fqx-8" value="Desligue as válvulas&lt;div&gt;Zere os sensores&lt;/div&gt;&lt;div&gt;Desative o modo manual&lt;/div&gt;&lt;div&gt;Zere o timer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="-200" width="160" height="70" as="geometry" />
+        <mxCell id="MHBdFEDfE4BoACTo0Fqx-8" value="Desligue as válvulas&lt;div&gt;Zere os sensores&lt;/div&gt;&lt;div&gt;Desative o modo manual&lt;/div&gt;&lt;div&gt;Zere o timer&lt;/div&gt;&lt;div&gt;Alarme desligado&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-210" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UzzJH1dWmOU3JszpQiQF-2" value="Válvulas desligadas&lt;div&gt;Verifique os sensores e o timer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="212" y="6" width="160" height="40" as="geometry" />
@@ -241,6 +241,24 @@
               <mxPoint x="490" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QSRRDjsnFtTH_yUpJ8kw-25" value="Válvula setor 1 ligada&lt;div&gt;Válvula setor 2 desligada&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="208" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QSRRDjsnFtTH_yUpJ8kw-26" value="Válvula setor 2 ligada&lt;div&gt;Válvula setor 1 desligada&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QSRRDjsnFtTH_yUpJ8kw-27" value="Alarme ativado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="62" y="464" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QSRRDjsnFtTH_yUpJ8kw-28" value="Válvulas desligadas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="350" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QSRRDjsnFtTH_yUpJ8kw-29" value="Válvulas ligadas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QSRRDjsnFtTH_yUpJ8kw-30" value="Timer desativado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-190" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
