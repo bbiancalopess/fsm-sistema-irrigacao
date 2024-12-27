@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u5YfSKtBaIwCGae10N4C" name="FSM alto nível">
-    <mxGraphModel dx="1857" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -541,6 +541,21 @@
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-25" value="Botão de&amp;nbsp;&lt;div&gt;confirmação&lt;/div&gt;&lt;div&gt;apertado&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1260" y="540" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FrwWWXYEOv3GfYMwix3z-26" value="Sensor de chuva = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="-330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrwWWXYEOv3GfYMwix3z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-32" target="vQhdrYDnZhAqlK0UTga5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FrwWWXYEOv3GfYMwix3z-30" value="Sensor de chuva = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="-380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrwWWXYEOv3GfYMwix3z-31" value="Sensor de chuva = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="-177" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrwWWXYEOv3GfYMwix3z-32" value="Timer = horário programado&amp;nbsp;&lt;div&gt;&lt;div&gt;&amp;amp;&amp;amp; umidade setor 2 &amp;lt; 80%&amp;nbsp;&lt;div&gt;&amp;amp;&amp;amp; nível reservatório &amp;gt; 25%&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="-495" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
