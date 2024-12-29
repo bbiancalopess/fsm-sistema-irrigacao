@@ -158,16 +158,16 @@
         <mxCell id="vQhdrYDnZhAqlK0UTga5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.298;exitY=-0.021;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-6" target="vQhdrYDnZhAqlK0UTga5-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2746" y="-210" />
-              <mxPoint x="2566" y="-210" />
+              <mxPoint x="2560" y="-215.5" />
+              <mxPoint x="2380" y="-215.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vQhdrYDnZhAqlK0UTga5-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2786" y="-180" as="sourcePoint" />
+            <mxPoint x="2600" y="-185.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2786" y="-440" />
+              <mxPoint x="2600" y="-445.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,9 +177,9 @@
         <mxCell id="FrwWWXYEOv3GfYMwix3z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.977;exitY=0.271;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-6" target="vQhdrYDnZhAqlK0UTga5-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2814" y="-170" />
-              <mxPoint x="2976" y="-170" />
-              <mxPoint x="2976" y="-300" />
+              <mxPoint x="2628" y="-175.5" />
+              <mxPoint x="2790" y="-175.5" />
+              <mxPoint x="2790" y="-305.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -190,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-6" value="ESPERA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2716" y="-177" width="100" height="60" as="geometry" />
+          <mxGeometry x="2530" y="-182.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-12" value="Botão de&amp;nbsp;&lt;div&gt;confirmação&lt;/div&gt;&lt;div&gt;apertado&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1175" y="-102" width="90" height="60" as="geometry" />
@@ -208,47 +208,47 @@
           <mxGeometry x="1200" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-28" value="IRRIGAÇÃO SETOR 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2436" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="2250" y="64.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-29" value="IRRIGAÇÃO SETOR 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2846" y="132" width="120" height="60" as="geometry" />
+          <mxGeometry x="2660" y="126.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3006.0000000000005" y="-450.0000000000001" as="targetPoint" />
+            <mxPoint x="2820.0000000000005" y="-455.5000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2946" y="-490" />
-              <mxPoint x="3026" y="-490" />
-              <mxPoint x="3026" y="-450" />
+              <mxPoint x="2760" y="-495.5" />
+              <mxPoint x="2840" y="-495.5" />
+              <mxPoint x="2840" y="-455.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-30" value="IRRIGAÇÃO TODOS OS SETORES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2886" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="2700" y="-475.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-31" value="MODO MANUAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2506" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="2320" y="-435.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-32" value="PAUSA POR CHUVA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3086" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="2900" y="-335.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQhdrYDnZhAqlK0UTga5-34" value="SEM ÁGUA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3316" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="3130" y="-75.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Timer%20%3D%20hor%C3%A1rio%20programado%26lt%3Bdiv%26gt%3Bumidade%20setor%201%20%26amp%3Blt%3B%20umidade%20setor%202%26amp%3Bnbsp%3B%26lt%3Bdiv%26gt%3Be%2025%25%20%26amp%3Bgt%3B%20n%C3%ADvel%20reservat%C3%B3rio%20%26amp%3Bgt%3B%200%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Brotation%3D0%3BfontSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-110%22%20y%3D%2230%22%20width%3D%22180%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2456" y="-42" width="20" height="30" as="geometry" />
+          <mxGeometry x="2270" y="-47.5" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-2" value="Timer = horário programado&amp;nbsp;&lt;div&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;umidade setor 1 &amp;lt; umidade setor 2&lt;/span&gt;&lt;div&gt;&amp;amp;&amp;amp; umidade setor 1 &amp;lt; mínimo umidade setor 1&amp;nbsp;&lt;div&gt;&amp;amp;&amp;amp; nível crítico&amp;nbsp;reservatório &amp;gt; nível reservatório &amp;gt; 0%&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2246" y="-100" width="260" height="60" as="geometry" />
+          <mxGeometry x="2060" y="-105.5" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-3" value="Timer = horário programado&amp;nbsp;&lt;div&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;umidade setor 2 &amp;lt; umidade setor 1&lt;/span&gt;&lt;div&gt;&amp;amp;&amp;amp; umidade setor 2 &amp;lt;&amp;nbsp;&lt;span style=&quot;font-size: 12px;&quot;&gt;mínimo umidade setor 1&lt;/span&gt;&lt;div&gt;&amp;amp;&amp;amp; nível crítico reservatório &amp;gt; nível reservatório &amp;gt; 0%&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2895" y="30" width="260" height="60" as="geometry" />
+          <mxGeometry x="2709" y="24.5" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-4" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;nível reservatório = 0%&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="3246" y="-125" width="130" height="30" as="geometry" />
+          <mxGeometry x="3060" y="-130.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-6" value="nível reservatório &amp;lt; nível crítico reservatório" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="-117" width="260" height="30" as="geometry" />
+          <mxGeometry x="3214" y="-122.5" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.418;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-31" target="vQhdrYDnZhAqlK0UTga5-6">
           <mxGeometry relative="1" as="geometry" />
@@ -262,9 +262,9 @@
         <mxCell id="FrwWWXYEOv3GfYMwix3z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-34" target="vQhdrYDnZhAqlK0UTga5-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3436" y="-90" />
-              <mxPoint x="3486" y="-90" />
-              <mxPoint x="3486" y="-25" />
+              <mxPoint x="3250" y="-95.5" />
+              <mxPoint x="3300" y="-95.5" />
+              <mxPoint x="3300" y="-30.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -272,7 +272,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-17" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;nível reservatório &amp;gt;= nível crítico reservatório&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="3101" y="-65" width="220" height="30" as="geometry" />
+          <mxGeometry x="2915" y="-70.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.303;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-29" target="vQhdrYDnZhAqlK0UTga5-6">
           <mxGeometry relative="1" as="geometry" />
@@ -293,73 +293,73 @@
           <mxGeometry x="1175" y="561" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-26" value="Sensor de chuva = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2956" y="-330" width="130" height="30" as="geometry" />
+          <mxGeometry x="2770" y="-335.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-32" target="vQhdrYDnZhAqlK0UTga5-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-30" value="Sensor de chuva = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3146" y="-380" width="130" height="30" as="geometry" />
+          <mxGeometry x="2960" y="-385.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-31" value="Sensor de chuva = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3016" y="-177" width="130" height="30" as="geometry" />
+          <mxGeometry x="2830" y="-182.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrwWWXYEOv3GfYMwix3z-32" value="Contador geral = tempo programado&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;amp;&amp;amp; nível reservatório &amp;gt; nível crítico reservatório&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="-482" width="230" height="40" as="geometry" />
+          <mxGeometry x="2474" y="-487.5" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2w0FtOAeiRbpSbfXlcGN-1" value="Botão de ativação&lt;div&gt;manual = 1&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2456" y="-320" width="120" height="40" as="geometry" />
+          <mxGeometry x="2270" y="-325.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2w0FtOAeiRbpSbfXlcGN-2" value="Botão de ativação&lt;div&gt;manual = 0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2636" y="-400" width="120" height="40" as="geometry" />
+          <mxGeometry x="2450" y="-405.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.187;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-31" target="vQhdrYDnZhAqlK0UTga5-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2476" y="-415" />
-              <mxPoint x="2476" y="-450" />
-              <mxPoint x="2528" y="-450" />
+              <mxPoint x="2290" y="-420.5" />
+              <mxPoint x="2290" y="-455.5" />
+              <mxPoint x="2342" y="-455.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-3" value="Botão de ativação&lt;div&gt;manual = 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="-470" width="120" height="40" as="geometry" />
+          <mxGeometry x="2194" y="-475.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-5" value="Contador &amp;lt; tempo irrigação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2904" y="-512" width="170" height="30" as="geometry" />
+          <mxGeometry x="2718" y="-517.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-6" value="Contador &amp;gt;= tempo irrigação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2776" y="-320" width="180" height="30" as="geometry" />
+          <mxGeometry x="2590" y="-325.5" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.167;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-28" target="vQhdrYDnZhAqlK0UTga5-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2406" y="100" />
-              <mxPoint x="2406" y="150" />
-              <mxPoint x="2456" y="150" />
+              <mxPoint x="2220" y="94.5" />
+              <mxPoint x="2220" y="144.5" />
+              <mxPoint x="2270" y="144.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-8" value="umidade&amp;nbsp;&lt;div&gt;setor 1 &amp;lt; máximo&amp;nbsp;&lt;div&gt;umidade setor 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="2134" y="124.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-9" value="umidade&amp;nbsp;&lt;div&gt;setor 1 &amp;gt;= máximo&amp;nbsp;&lt;div&gt;umidade setor 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2581" y="45" width="130" height="60" as="geometry" />
+          <mxGeometry x="2395" y="39.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQhdrYDnZhAqlK0UTga5-29" target="vQhdrYDnZhAqlK0UTga5-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2986" y="177" />
-              <mxPoint x="2986" y="210" />
-              <mxPoint x="2936" y="210" />
+              <mxPoint x="2800" y="171.5" />
+              <mxPoint x="2800" y="204.5" />
+              <mxPoint x="2750" y="204.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-11" value="umidade&amp;nbsp;&lt;div&gt;setor 2 &amp;lt; mínimo&amp;nbsp;&lt;div&gt;umidade setor 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2954" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="2768" y="184.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-12" value="umidade&amp;nbsp;&lt;div&gt;setor 2 &amp;gt;= máximo&amp;nbsp;&lt;div&gt;umidade setor 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2716" y="158" width="130" height="60" as="geometry" />
+          <mxGeometry x="2530" y="152.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vQhdrYDnZhAqlK0UTga5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -371,7 +371,7 @@
           <mxGeometry x="1180" y="-262" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFBh9YppC4q2udfnyLbM-15" value="&lt;b&gt;INÍCIO:&lt;/b&gt;&amp;nbsp;zera o contador, desliga as válvulas, apaga o timer definido&lt;div&gt;&lt;b&gt;AGUARDA 1° DÍGITO DAS HORAS: &lt;/b&gt;pisca o display dos décimos da hora&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;AGUARDA 2° DÍGITO DAS HORAS:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pisca o display das unidades da hora, exibe o valor selecionado para os décimos da hora&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;SALVA HORAS: &lt;/b&gt;concatena os valores das horas, multiplica o valor por 60 e salva&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;AGUARDA 1° DÍGITO DOS MINUTOS:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pisca o display dos décimos dos minutos, exibe os valores já definidos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;AGUARDA 2° DÍGITO DOS MINUTOS:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pisca o display das unidades dos minutos, exibe os valores já definidos&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SALVA MINUTOS: &lt;/b&gt;concatena os valores definidos para os minutos, os adiciona ao valor já salvo e salva novamente&lt;/div&gt;&lt;div&gt;&lt;b&gt;SALVA TIMER TOTAL EM MINUTOS: &lt;/b&gt;habilita load que salva valor do timer no contador&lt;/div&gt;&lt;div&gt;&lt;b&gt;ESPERA: &lt;/b&gt;desativa todas as válvulas, observa os sensores e o timer&lt;/div&gt;&lt;div&gt;&lt;b&gt;IRRIGAÇÃO SETOR 1: &lt;/b&gt;habilita a válvula do setor 1&lt;/div&gt;&lt;div&gt;&lt;b&gt;IRRIGAÇÃO SETOR 2: &lt;/b&gt;habilita a válvula do setor 2&lt;/div&gt;&lt;div&gt;&lt;b&gt;SEM ÁGUA: &lt;/b&gt;desabilita todas as válvulas e o contador&lt;/div&gt;&lt;div&gt;&lt;b&gt;PAUSA POR CHUVA: &lt;/b&gt;desabilita todas as válvulas e o contador&lt;/div&gt;&lt;div&gt;&lt;b&gt;IRRIGAÇÃO TODOS OS SETORES: &lt;/b&gt;habilita todas as válvulas&lt;/div&gt;&lt;div&gt;&lt;b&gt;MODO MANUAL: &lt;/b&gt;desabilita o contador e habilita os botões de ativação das válvulas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2576" y="269" width="700" height="230" as="geometry" />
+          <mxGeometry x="2390" y="263.5" width="700" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SkQxA-ukpzzKGNU2dro--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOfXx71BmrX-OHFtYexC-1" target="RCZJPgjWp2HI4Slcmobq-1">
           <mxGeometry relative="1" as="geometry" />
